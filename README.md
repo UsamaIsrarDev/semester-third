@@ -38,7 +38,7 @@ https://github.com/UsamaIsrarDev/data-structure-and-application.git
 - Build real-world applications using trees, graphs, and recursion.
 - Strengthen logical and analytical problem-solving skills.
 
-### CSSE-407 : Ordinary Differential Equations (ODEs)
+### CSSE-411 : Ordinary Differential Equations (ODEs)
 
 ```
 https://github.com/UsamaIsrarDev/ordinary-differential-equation.git
@@ -56,7 +56,7 @@ https://github.com/UsamaIsrarDev/ordinary-differential-equation.git
 - Understand mathematical reasoning behind physical and computational models.
 - Use ODEs as a tool for research and scientific problem-solving.
 
-### CSSE-409 : Automata Theory
+### CSSE-413 : Automata Theory
 
 ```
 https://github.com/UsamaIsrarDev/automata-theory.git
@@ -74,7 +74,7 @@ https://github.com/UsamaIsrarDev/automata-theory.git
 - Grasp the theoretical basis of modern programming languages.
 - Strengthen analytical and abstract reasoning skills.
 
-### CSSE-411 : Software Development
+### CSSE-415 : Software Development
 
 ```
 https://github.com/UsamaIsrarDev/software-development.git
@@ -92,7 +92,7 @@ https://github.com/UsamaIsrarDev/software-development.git
 - Apply software design principles and testing strategies.
 - Build professional-quality, maintainable applications.
 
-### CSSE-413 : Probability and Statistics
+### CSSE-417 : Probability and Statistics
 
 ```
 https://github.com/UsamaIsrarDev/probability-and-statistics.git
